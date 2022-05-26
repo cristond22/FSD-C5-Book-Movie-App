@@ -5,7 +5,6 @@
 // import java.net.URI;
 // import java.net.URL;
 // import java.nio.charset.Charset;
-
 // import org.apache.commons.codec.binary.Base64;
 // import org.json.JSONObject;
 // import org.junit.Before;
