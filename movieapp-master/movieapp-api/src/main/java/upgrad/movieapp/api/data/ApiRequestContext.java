@@ -73,7 +73,6 @@ public class ApiRequestContext implements RequestContext {
     public String getOriginIpAddress() {
         return clientIpAddress;
     }
-
     @Override
     public void setUserId(String userId) {
         this.userId = userId;
